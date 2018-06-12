@@ -1,0 +1,7 @@
+#Thu Mar 30 15:31:29 IST 2017
+base.0=/Users/apk/Desktop/WANalyse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5b884524c31a286c1bbb739a3d9906b6c15a2f4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apk/Desktop/WANalyse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6105389b6251854964c1b57ce4d4bcca0b00e47/classes.dex
+base.1=/Users/apk/Desktop/WANalyse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6105389b6251854964c1b57ce4d4bcca0b00e47
+file.0=/Users/apk/Desktop/WANalyse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5b884524c31a286c1bbb739a3d9906b6c15a2f4/classes.dex
